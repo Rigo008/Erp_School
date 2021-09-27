@@ -11,7 +11,12 @@
 |  Nombre: | Rigoberto Castellanos  |
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
-|  Mi trabajo | 🖥️ |
+|  no.1 | 🖥️ |
+|  no.2 | 🖥️ |
+|  no.3 | 🖥️ |
+|  no.4 | 🖥️ |
+|  no.5 | 🖥️ |
+|  no.6 | 🖥️ |
             
 ##### Portada -----------------------------------1
 ##### Anteportada ------------------------------2
