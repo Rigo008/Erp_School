@@ -12,7 +12,6 @@
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
 | Trabajo | 🖥️ |
-| ------------ | ------------ |
 |  no.1 | 🖥️ https://rigo008.github.io/base_sitio_web/ |
 |  no.2 | 🖥️ https://rigo008.github.io/login/ |
 |  no.3 | 🖥️ https://rigo008.github.io/login_2/ |
