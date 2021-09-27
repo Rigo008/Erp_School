@@ -20,22 +20,17 @@
 
             
 ##### Portada -----------------------------------1
-##### Anteportada ------------------------------2
+##### Anteportada -------------------------------2
 ##### Indice ------------------------------------3
 ##### Objetivos ---------------------------------4
-##### Glosario HTML y CSS ----------------------5
-##### Home page ------------------------------6
-##### Banner ------------------------------------7
-##### Glosario ---------------------------------8
-##### Contenido HTML ----------------------9
-##### Contenido CSS ------------------------------10
+##### Objetivos futuros -------------------------5
 
 
 ## objetivos 
 
 -Lograra aprender mas sobre los temas.
 
--Saber como realiozar todos los codigos para tener un mejor aprendisaje. 
+-Saber como realiozar todos los codigos para tener un mejor resultado. 
 
 -Saber como utilizar la informatica en html y css para poder realizar mejores trabajos.
 
@@ -46,7 +41,7 @@
 
 -Saber mas de informatica.
 
--Quisiera saber como utilizar mas programas.
+-Quisiera saber estrategias para programar mas rapido.
 
 
 
