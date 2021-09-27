@@ -4,7 +4,7 @@
 
 # Portafolio III Periodo 2021 💻
 
-<img src="https://i.pinimg.com/474x/43/f7/8a/43f78a2394f21ea3002c81905c2a64b1.jpg">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tecnologia-informatica.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fword-image.jpeg&imgrefurl=https%3A%2F%2Fwww.tecnologia-informatica.com%2Fque-es-computacion%2F&tbnid=xg9TmHMd7tQJXM&vet=12ahUKEwjrrqKB-J_zAhUmZN8KHc90AJwQMygDegUIARDPAQ..i&docid=ttJR62PMaOftEM&w=500&h=281&q=computacion&ved=2ahUKEwjrrqKB-J_zAhUmZN8KHc90AJwQMygDegUIARDPAQ">
 
 ## Información
 
